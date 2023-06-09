@@ -1,2 +1,2 @@
-# IBMcourseWeek2Task
-Hi this is my Final assugnment: creat and share the Jupyter notebook
+# IBMcourseTask
+Hi this is my Final assignment: creat and share the Jupyter notebook
